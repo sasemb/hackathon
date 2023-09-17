@@ -1,0 +1,14 @@
+transformers
+InstructorEmbedding
+sentence_transformers
+torch
+langchain
+torch-utils
+chromadb
+pypdf
+tiktoken
+xformers
+accelerate
+faiss-cpu>=1.7,<2
+langchain==0.0.249
+pypdf>=3.8,<4
